@@ -1,0 +1,50 @@
+{ 
+	"movies":[
+			{
+				"name":"Lord of The Rings",
+				"img":"MovieImages/lord.jpg"
+			},
+			{
+				"name":"Avatar",
+				"img":"MovieImages/avatar.jpg"
+			},
+			{
+				"name":"Avanger",
+				"img":"MovieImages/Avanger.jpg"
+			},
+			{
+				"name":"Thor",
+				"img":"MovieImages/Thor.jpg"
+			},
+			{	"name":"Titanic",
+				"img":"MovieImages/Titanic.jpg"
+			},
+			{
+				"name":"spiderman",
+				"img":"MovieImages/spiderman.jpg"
+			},
+			{
+				"name":"Troy",
+				"img":"MovieImages/troy.jpg"
+			},
+			{	
+				"name":"Transformer",
+				"img":"MovieImages/transformers.jpg"
+			},
+			{
+				"name":"Speed",
+				"img":"MovieImages/speed.jpg"
+			},
+			{	"name":"Star wars",
+				"img":"MovieImages/star.jpg"
+			},
+			{
+				"name":"Cars",
+				"img":"MovieImages/cars.jpg"
+			},
+			{	
+				"name":"Superman",
+				"img":"MovieImages/superman.jpg"
+			}
+		]
+}
